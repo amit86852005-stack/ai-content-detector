@@ -1,0 +1,7 @@
+{
+  "name": "AI Content Detector",
+  "description": "Analyze images and videos to detect AI-generated content and artifacts using Gemini's multimodal capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
